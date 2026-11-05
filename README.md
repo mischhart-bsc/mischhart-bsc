@@ -54,6 +54,18 @@ I work on data analysis, visualization and AI projects during my studies, and bu
       <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white" alt="SciPy">
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/mischhart-bsc/pacman-search-optimization">
+        <img src="assets/pacman.png" alt="Dijkstra and A* searching the same route through the Pacman maze" width="100%">
+      </a>
+      <h3><a href="https://github.com/mischhart-bsc/pacman-search-optimization">👻 Pacman Search Optimization</a></h3>
+      Pacman ghosts that hunt with shortest-path search. A heap-based priority queue, Dijkstra and A* are written from scratch, and A* searches about 3.6 times fewer tiles.<br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/pygame-2C8E3C" alt="pygame">
+      <img src="https://img.shields.io/badge/A*%20%26%20Dijkstra-555" alt="A* and Dijkstra">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://github.com/mischhart-bsc/portfolio">
         <img src="assets/portfolio.png" alt="Projects page of the portfolio website" width="100%">
       </a>
@@ -64,13 +76,6 @@ I work on data analysis, visualization and AI projects during my studies, and bu
       <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mischhart-bsc/judo-trainer">🥋 Judo Trainer</a></h3>
-      Web game for learning judo techniques with friends: flashcards with spaced repetition, memory and quiz modes.<br><br>
-      <img src="https://img.shields.io/badge/Web%20App-555" alt="Web App">
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mischhart-bsc/agentic_ai">🤖 Agentic AI for EDA</a></h3>
