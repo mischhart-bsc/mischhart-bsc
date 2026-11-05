@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
 </p>
 
@@ -21,39 +22,55 @@ I work on data analysis, visualization and AI projects during my studies, and bu
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/mischhart-bsc/Seismic-Tsunami-Risk-Assessment">
+        <img src="assets/seismic-tsunami.png" alt="Pacific Ring of Fire: earthquakes, tsunami events and plate boundaries" width="100%">
+      </a>
       <h3><a href="https://github.com/mischhart-bsc/Seismic-Tsunami-Risk-Assessment">🌊 Seismic &amp; Tsunami Risk Assessment</a></h3>
-      Data visualization project on seismic and tsunami risk, including analysis notebook, project report and presentation.<br><br>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
+      Where do tsunami-generating earthquakes happen? A colour-blind-safe geovisualization of 782 large earthquakes and plate boundaries, with project report and presentation.<br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/GeoPandas-139C5A?logo=pandas&logoColor=white" alt="GeoPandas">
       <img src="https://img.shields.io/badge/Data%20Visualization-555" alt="Data Visualization">
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/mischhart-bsc/Covid-19-Spread-World-Map">
+        <img src="assets/covid-map.png" alt="World map of Covid-19 cases per 100,000 inhabitants in January 2022" width="100%">
+      </a>
       <h3><a href="https://github.com/mischhart-bsc/Covid-19-Spread-World-Map">🦠 Covid-19 Spread World Map</a></h3>
-      World map visualizing the spread of Covid-19, built in a Jupyter notebook for an information visualization course.<br><br>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
+      Interactive dashboard of the pandemic from 2020 to 2026: world map with time slider, hotspot timeline and colour-vision modes.<br><br>
+      <img src="https://img.shields.io/badge/Dash-008DE4?logo=plotly&logoColor=white" alt="Dash">
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" alt="Plotly">
       <img src="https://img.shields.io/badge/Data%20Visualization-555" alt="Data Visualization">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/mischhart-bsc/Seismic-Signal-Processing">
+        <img src="assets/signal-processing.png" alt="Original, filtered and Wiener-restored earthquake acceleration signal" width="100%">
+      </a>
       <h3><a href="https://github.com/mischhart-bsc/Seismic-Signal-Processing">📈 Seismic Signal Processing</a></h3>
-      Notebooks on sampling, correlation and convolution.<br><br>
+      Sampling, correlation and convolution on a real earthquake record: how fast must a sensor sample, and how much of a smoothed peak can a Wiener filter restore?<br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white" alt="SciPy">
     </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mischhart-bsc/portfolio">
+        <img src="assets/portfolio.png" alt="Projects page of the portfolio website" width="100%">
+      </a>
+      <h3><a href="https://github.com/mischhart-bsc/portfolio">💼 Portfolio Website</a></h3>
+      Personal portfolio built with Next.js and TypeScript, deployed on Vercel.
+      <a href="https://my-portfolio-five-xi-13.vercel.app">Live demo →</a>
+      A second version with a database is built with Django: <a href="https://github.com/mischhart-bsc/django-portfolio">django-portfolio</a>.<br><br>
+      <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django">
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mischhart-bsc/judo-trainer">🥋 Judo Trainer</a></h3>
       Web game for learning judo techniques with friends: flashcards with spaced repetition, memory and quiz modes.<br><br>
       <img src="https://img.shields.io/badge/Web%20App-555" alt="Web App">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mischhart-bsc/portfolio">💼 Portfolio Website</a></h3>
-      Personal portfolio built with Next.js and TypeScript, deployed on Vercel.
-      <a href="https://my-portfolio-five-xi-13.vercel.app">Live demo →</a><br><br>
-      <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel">
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mischhart-bsc/agentic_ai">🤖 Agentic AI for EDA</a></h3>
