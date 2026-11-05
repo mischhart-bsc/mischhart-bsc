@@ -55,7 +55,13 @@ I work on data analysis, visualization and AI projects during my studies, and bu
       <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel">
     </td>
-    <td width="50%"></td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mischhart-bsc/agentic_ai">🤖 Agentic AI for EDA</a></h3>
+      Agentic AI system that automates exploratory data analysis (EDA) with a local LLM, built as a team project.<br><br>
+      <img src="https://img.shields.io/badge/Agentic%20AI-555" alt="Agentic AI">
+      <img src="https://img.shields.io/badge/Local%20LLM-555" alt="Local LLM">
+      <img src="https://img.shields.io/badge/EDA-555" alt="EDA">
+    </td>
   </tr>
 </table>
 
