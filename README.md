@@ -48,7 +48,7 @@ I work on data analysis, visualization and AI projects during my studies, and bu
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mischhart-bsc/my-portfolio">💼 Portfolio Website</a></h3>
+      <h3><a href="https://github.com/mischhart-bsc/portfolio">💼 Portfolio Website</a></h3>
       Personal portfolio built with Next.js and TypeScript, deployed on Vercel.
       <a href="https://my-portfolio-five-xi-13.vercel.app">Live demo →</a><br><br>
       <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
