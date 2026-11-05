@@ -35,7 +35,7 @@ I work on data analysis, visualization and AI projects during my studies, and bu
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mischhart-bsc/gbsv_mc1">📈 Signal Processing Mini-Challenge</a></h3>
+      <h3><a href="https://github.com/mischhart-bsc/gbsv_mc1">📈 Signal Processing</a></h3>
       Notebooks on sampling, correlation and convolution.<br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
