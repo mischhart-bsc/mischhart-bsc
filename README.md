@@ -91,4 +91,6 @@ I work on data analysis, visualization and AI projects during my studies, and bu
 
 ## 📫 Find me here
 
+<a href="https://github.com/mischhart-bsc/mischhart-bsc/blob/main/cv/Mischa_Hartmann_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-4A2BD8?logo=readthedocs&logoColor=white" alt="CV (PDF)"></a>
 <a href="https://data.world/mischhart-bsc/"><img src="https://img.shields.io/badge/data.world-profile-2E6DB4" alt="data.world"></a>
+
