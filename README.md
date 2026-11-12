@@ -89,6 +89,19 @@ I work on data analysis, visualization and AI projects during my studies, and bu
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg">
+  <img alt="Mischa Hartmann's 3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</picture>
+
+### Mischa Hartmann: what these towers mean
+
+- **Tall** weeks = project deadlines and weeks with a lot of coding
+- **Flat** stretches = exams, holidays or time spent on non-coding study work
+- **Spiky** weekends = side projects, like my [portfolio](https://my-portfolio-five-xi-13.vercel.app)
+
+
 ## 📫 Find me here
 
 <a href="https://github.com/mischhart-bsc/mischhart-bsc/blob/main/cv/Mischa_Hartmann_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-4A2BD8?logo=readthedocs&logoColor=white" alt="CV (PDF)"></a>
