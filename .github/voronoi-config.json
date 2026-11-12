@@ -1,0 +1,9 @@
+{
+  "exclude_languages": ["HTML", "Shell", "Dockerfile", "Makefile"],
+  "exclude_repos": ["mischhart-bsc"],
+  "merge_languages": {"JavaScript": "TypeScript"},
+  "weights": {},
+  "max_cells": 8,
+  "min_share": 0.01,
+  "title": "Mischa Hartmann"
+}

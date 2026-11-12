@@ -22,20 +22,20 @@ I work on data analysis, visualization and AI projects during my studies, and bu
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/mischhart-bsc/seismic-tsunami-risk-assessment">
+      <a href="https://github.com/mischhart-bsc/Seismic-Tsunami-Risk-Assessment">
         <img src="assets/seismic-tsunami.png" alt="Pacific Ring of Fire: earthquakes, tsunami events and plate boundaries" width="100%">
       </a>
-      <h3><a href="https://github.com/mischhart-bsc/seismic-tsunami-risk-assessment">🌊 Seismic &amp; Tsunami Risk Assessment</a></h3>
+      <h3><a href="https://github.com/mischhart-bsc/Seismic-Tsunami-Risk-Assessment">🌊 Seismic &amp; Tsunami Risk Assessment</a></h3>
       Where do tsunami-generating earthquakes happen? A colour-blind-safe geovisualization of 782 large earthquakes and plate boundaries, with project report and presentation.<br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/GeoPandas-139C5A?logo=pandas&logoColor=white" alt="GeoPandas">
       <img src="https://img.shields.io/badge/Data%20Visualization-555" alt="Data Visualization">
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/mischhart-bsc/covid-19-spread-world-map">
+      <a href="https://github.com/mischhart-bsc/Covid-19-Spread-World-Map">
         <img src="assets/covid-map.png" alt="World map of Covid-19 cases per 100,000 inhabitants in January 2022" width="100%">
       </a>
-      <h3><a href="https://github.com/mischhart-bsc/covid-19-spread-world-map">🦠 Covid-19 Spread World Map</a></h3>
+      <h3><a href="https://github.com/mischhart-bsc/Covid-19-Spread-World-Map">🦠 Covid-19 Spread World Map</a></h3>
       Interactive dashboard of the pandemic from 2020 to 2026: world map with time slider, hotspot timeline and colour-vision modes.<br><br>
       <img src="https://img.shields.io/badge/Dash-008DE4?logo=plotly&logoColor=white" alt="Dash">
       <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" alt="Plotly">
@@ -44,10 +44,10 @@ I work on data analysis, visualization and AI projects during my studies, and bu
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/mischhart-bsc/seismic-signal-processing">
+      <a href="https://github.com/mischhart-bsc/Seismic-Signal-Processing">
         <img src="assets/signal-processing.png" alt="Original, filtered and Wiener-restored earthquake acceleration signal" width="100%">
       </a>
-      <h3><a href="https://github.com/mischhart-bsc/seismic-signal-processing">📈 Seismic Signal Processing</a></h3>
+      <h3><a href="https://github.com/mischhart-bsc/Seismic-Signal-Processing">📈 Seismic Signal Processing</a></h3>
       Sampling, correlation and convolution on a real earthquake record: how fast must a sensor sample, and how much of a smoothed peak can a Wiener filter restore?<br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
@@ -89,21 +89,28 @@ I work on data analysis, visualization and AI projects during my studies, and bu
 
 ---
 
+## 🏙️ Contribution skyline
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg">
-  <img alt="Mischa Hartmann's 3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 </picture>
 
-### Mischa Hartmann: what these towers mean
+Tall towers are busy weeks, flat blocks are quiet ones. Updated daily by a GitHub Action.
 
-- **Tall** weeks = project deadlines and weeks with a lot of coding
-- **Flat** stretches = exams, holidays or time spent on non-coding study work
-- **Spiky** weekends = side projects, like my [portfolio](https://my-portfolio-five-xi-13.vercel.app)
+---
 
+## 🗺️ Code territory
+
+<p align="center">
+  <img src="./assets/voronoi-territory.svg" alt="Languages by area: Python 82.6%, TypeScript 7.5%, R 5.1%, HTML 3.1%, CSS 1.8%" width="100%">
+</p>
+
+Each cell's area equals the language's share of the code in my public projects, so the map and the legend always agree.
+
+---
 
 ## 📫 Find me here
 
-<a href="https://github.com/mischhart-bsc/mischhart-bsc/blob/main/cv/Mischa_Hartmann_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-4A2BD8?logo=readthedocs&logoColor=white" alt="CV (PDF)"></a>
 <a href="https://data.world/mischhart-bsc/"><img src="https://img.shields.io/badge/data.world-profile-2E6DB4" alt="data.world"></a>
-

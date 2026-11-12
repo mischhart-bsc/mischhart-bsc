@@ -1,0 +1,36 @@
+name: Voronoi-Territory
+
+on:
+  schedule:
+    - cron: "43 6 * * *"   # daily at 06:43 UTC, after the 3D graph job
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/voronoi-config.json"
+      - ".github/scripts/update_voronoi.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-commits
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: update language territory
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/update_voronoi.py --owner "${{ github.repository_owner }}"
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/voronoi-territory.svg
+          git diff --cached --quiet || git commit -m "Update language territory"
+          git pull --rebase
+          git push
