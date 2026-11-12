@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     name: update language territory
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Generate SVG
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
