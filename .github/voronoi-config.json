@@ -1,7 +1,7 @@
 {
-  "exclude_languages": ["HTML", "Shell", "Dockerfile", "Makefile"],
+  "exclude_languages": [],
   "exclude_repos": ["mischhart-bsc"],
-  "merge_languages": {"JavaScript": "TypeScript"},
+  "merge_languages": {"JavaScript": "TypeScript", "Jupyter Notebook": "Python"},
   "weights": {},
   "max_cells": 8,
   "min_share": 0.01,
