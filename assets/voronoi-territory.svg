@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 870 460" width="870" height="460" role="img" aria-label="Mischa Hartmann: languages by area. Python 65.9%, HTML 34.1%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 870 460" width="870" height="460" role="img" aria-label="Mischa Hartmann: languages by area. Python 68.4%, HTML 31.6%">
 <style>text{font-family:Helvetica,Arial,sans-serif}</style>
 <rect width="100%" height="100%" rx="10" fill="#0b0f16"/>
 <g transform="translate(20,20)">
-<polygon points="0.0,0.0 408.6,0.0 408.6,420.0 0.0,420.0" fill="#4584b6" stroke="#0b0f16" stroke-width="3" stroke-linejoin="round"/>
-<polygon points="408.6,0.0 620.0,0.0 620.0,420.0 408.6,420.0" fill="#e34c26" stroke="#0b0f16" stroke-width="3" stroke-linejoin="round"/>
-<text x="204" y="210" text-anchor="middle" fill="#ffffff" font-size="22" font-weight="700">Python</text><text x="204" y="234" text-anchor="middle" fill="#ffffff" font-size="18" opacity=".9">65.9%</text>
-<text x="514" y="210" text-anchor="middle" fill="#ffffff" font-size="22" font-weight="700">HTML</text><text x="514" y="234" text-anchor="middle" fill="#ffffff" font-size="18" opacity=".9">34.1%</text>
+<polygon points="0.0,0.0 424.0,0.0 424.0,420.0 0.0,420.0" fill="#4584b6" stroke="#0b0f16" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="424.0,0.0 620.0,0.0 620.0,420.0 424.0,420.0" fill="#e34c26" stroke="#0b0f16" stroke-width="3" stroke-linejoin="round"/>
+<text x="212" y="210" text-anchor="middle" fill="#ffffff" font-size="22" font-weight="700">Python</text><text x="212" y="234" text-anchor="middle" fill="#ffffff" font-size="18" opacity=".9">68.4%</text>
+<text x="522" y="210" text-anchor="middle" fill="#ffffff" font-size="22" font-weight="700">HTML</text><text x="522" y="234" text-anchor="middle" fill="#ffffff" font-size="18" opacity=".9">31.6%</text>
 </g>
-<rect x="660" y="41" width="14" height="14" rx="3" fill="#4584b6"/><text x="682" y="52" fill="#c8d2e8" font-size="14">Python</text><text x="830" y="52" text-anchor="end" fill="#7c86b8" font-size="14">65.9%</text>
-<rect x="660" y="71" width="14" height="14" rx="3" fill="#e34c26"/><text x="682" y="82" fill="#c8d2e8" font-size="14">HTML</text><text x="830" y="82" text-anchor="end" fill="#7c86b8" font-size="14">34.1%</text>
+<rect x="660" y="41" width="14" height="14" rx="3" fill="#4584b6"/><text x="682" y="52" fill="#c8d2e8" font-size="14">Python</text><text x="830" y="52" text-anchor="end" fill="#7c86b8" font-size="14">68.4%</text>
+<rect x="660" y="71" width="14" height="14" rx="3" fill="#e34c26"/><text x="682" y="82" fill="#c8d2e8" font-size="14">HTML</text><text x="830" y="82" text-anchor="end" fill="#7c86b8" font-size="14">31.6%</text>
 <text x="660" y="428" fill="#7c86b8" font-size="10">Cell area = share of code in my public repos</text></svg>
