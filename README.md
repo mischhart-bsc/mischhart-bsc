@@ -78,6 +78,9 @@ I work on data analysis, visualization and AI projects during my studies, and bu
       <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django">
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/mischhart-bsc/agentic_ai">
+        <img src="assets/agentic-ai.png" alt="Agentic EDA: a local LLM agent plans, writes Python, runs it in a Docker sandbox and reads the results in a loop" width="100%">
+      </a>
       <h3><a href="https://github.com/mischhart-bsc/agentic_ai">🤖 Agentic AI for EDA</a></h3>
       Agentic AI system that automates exploratory data analysis (EDA) with a local LLM, built as a team project.<br><br>
       <img src="https://img.shields.io/badge/Agentic%20AI-555" alt="Agentic AI">
